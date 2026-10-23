@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mirabellinks — Prints and design that speak",
+      "hasCanvas": false,
+      "bodyTextLen": 1127,
+      "bodyTextHash": "31b35de8b7c56710ebec09a7d460568f1eda53cc6cbee3f5e944e73da358b76f",
+      "bodyTextPrefix": "MIRABELLINKS Printing Custom Shop Portfolio About Contact Reques",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mirabellinks — Prints and design that speak",
+      "hasCanvas": false,
+      "bodyTextLen": 1087,
+      "bodyTextHash": "a1df578c42ccd01131aaf525165ef4c17baa36242a4b92093cd1883fdab70363",
+      "bodyTextPrefix": "MIRABELLINKS Request a quote Menu Mirabellinks Advertising Catal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

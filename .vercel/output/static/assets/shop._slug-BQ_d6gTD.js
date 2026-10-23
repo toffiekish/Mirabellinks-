@@ -1,0 +1,1 @@
+import{c as e}from"./index-Y-7Fgc59.js";import{n as t,t as n}from"./layout-BOao2sRS.js";var r=e(),i=()=>(0,r.jsx)(t,{children:(0,r.jsx)(n,{kicker:`SHOP`,title:`Listing not found.`,lede:`That sample is not in the catalogue.`})});export{i as notFoundComponent};

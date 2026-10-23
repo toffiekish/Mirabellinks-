@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Mirabell Inks">
+  <rect width="32" height="32" rx="7" fill="#070B18"/>
+  <path fill="#D4A84B" d="M7.5 12.4 11 5.8 13.7 11 16 3.6 18.3 11 21 5.8 24.5 12.4 21.4 12.4 16 8.2 10.6 12.4Z"/>
+  <path fill="#D4A84B" d="M9.4 13.2c.2 0-.8 6.8 6.6 14.6 7.4-7.8 6.4-14.6 6.6-14.6-3 2.2-10.2 2.2-13.2 0Z"/>
+  <circle cx="16" cy="16.7" r="2.2" fill="#7EE7F5"/>
+  <path d="M16 18.8v7.2" stroke="#070B18" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
